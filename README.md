@@ -1,2 +1,9 @@
 # data-science-portfolio
-My portfolio of data science and machine learning projects using Python, ML, statistical analysis, dashboards, and more.
+Portfolio of data science and machine learning projects using Python, statistical modeling, time series analysis, neural networks, and data visualization.
+## Projects:
+### project_stock_predictor
+**Stock Predictor** — full desktop application for stock price forecasting.  
+User interface: PySide6 | Models: LSTM & TCN neural networks | Data source: Yahoo Finance API
+### butterfly_image_classifier
+Butterfly Image Classifier — image classification project to identify butterfly species.
+Built with Python, uses convolutional neural networks with a pre-trained ResNet50 model.
