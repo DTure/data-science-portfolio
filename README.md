@@ -7,6 +7,6 @@ User interface: PySide6 | Models: LSTM & TCN neural networks | Data source: Yaho
 ### butterfly_image_classifier
 Butterfly Image Classifier — image classification project to identify butterfly species.
 Built with Python, uses convolutional neural networks with a pre-trained ResNet50 model.
-## insurance_costs_regression
+### insurance_costs_regression
 Insurance Charges Prediction — regression model to estimate medical insurance costs.
 Pipeline: data preprocessing with scikit-learn | Models: Random Forest, XGBoost, Linear Regression | Hyperparameter tuning with GridSearchCV
